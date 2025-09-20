@@ -1,0 +1,16 @@
+import java.io.*;
+class $Demo
+{
+	static
+	{
+		System.out.println("TOFIK MULTANI");
+        	System.out.println("MCA");
+        	System.out.println("Roll : 35");
+	}
+
+	public static void main(String t[])
+
+	{
+	System.out.println("TOFIK MULTANI");
+	}
+}
