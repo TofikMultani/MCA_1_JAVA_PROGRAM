@@ -23,6 +23,7 @@ class con_static
 
 class static_member
 {
+	
 	public static void main(String[] args)	
 	{
 		con_static t = new con_static();

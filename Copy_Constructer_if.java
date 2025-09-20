@@ -1,4 +1,4 @@
-// Copy Constructer
+// Copy Constructor
 import java.io.*;
 
 class cons_copy
@@ -56,5 +56,5 @@ class Copy_Constructer_if
 		//t1.show();
 		t2.show();
 	}
-
+	
 }
