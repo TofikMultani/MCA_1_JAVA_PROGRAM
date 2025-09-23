@@ -11,7 +11,7 @@ class RateOfInterest implements Bank
     	float principleamount, time, rate, si;
 	Scanner sc = new Scanner(System.in);
 
-    	public void rateOfInterest(float principleamount, float time, float rate) 
+    	 public void rateOfInterest(float principleamount, float time) 
 	{	
 		System.out.print("Enter 1 for SBI \n\n Enter 2 for HDFC \n\n Enter 3 for ICICI");
 		int num = sc.nextInt();
